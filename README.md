@@ -11,3 +11,5 @@ pip install robotframework-seleniumlibrary
 
 Git pull the project 
 and in command prompt run 'robot TestCase1.robot'
+
+View the test result at log.html
